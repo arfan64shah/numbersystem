@@ -5,3 +5,4 @@ javafx.application.Application, javafx.fxml.FXMLLoader, javafx.scene.Parent, jav
 ### Installation Instruction: Download FXML library and save it in your PC in a separate file. Download 'SceneBuilder' and install it. When you started to run the project in INtellij then go 'file' then go to 'project structure' then 'Libraries' then add the FXML library by going to the portion where you have saved that library then the project will work. 
 ### Planned App's Features List: Converting decimal to binary and vice versa, decimal to octal and vice versa, decimal to hexadecimal and vice versa, Integers to ASCII and vice versa, conversion of to any given bases, degree to radian and vice versa and many other converions.
 ### List of Features Yet To Implement: We need to make this App in such a way that should Convert numbers to any given base. we need to implement many other conversions like degree to radian and vice versa etc. 
+#### Authors: Abbosjon Madiev and Arfan Shah
